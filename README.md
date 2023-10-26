@@ -1,9 +1,10 @@
 ### Hello world 👋
+<!--
 I'm Aneta and I speak Czech, English, French, a bit of Italian, Python, C, SQL, JavaScript ... 
 
 My very first language was PHP (elementary school), then I discoverd OOP with Java (high school). During my years at university, I had the opportunity to write projects in many languages (including R, Java, C++, Haskell or Prolog), but I particularly liked Python. So if you ask me today what my favourite language is, it's Python. Along with French, of course.
 
-<!--
+
 **andufkova/andufkova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
